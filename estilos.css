@@ -24,7 +24,7 @@
         background-repeat: no-repeat;
         
         }
-    
+      
     
     .img{
     
@@ -133,27 +133,26 @@
         
         }
         
-         
-        
+
         .imagenre{
         
          
         
-        background-repeat: no-repeat;
-        
-        float:right;
-        
-        height: 200px;
-        
-        width: 260px;
-        
-        margin-left: 5px;
-        
-        margin-right:5px;
-        
-        background-image: url("jinjean.png");
-        
-        }
+            background-repeat: no-repeat;
+            
+            float:right;
+            
+            height: 280px;
+            
+            width: 260px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("imagenre.jpg");
+            
+            }
         
         
         
@@ -161,11 +160,11 @@
         
         text-align: justify;
         
-        color: rgb(255, 240, 240);
+        color: rgb(0, 0, 0);
         
-        font-size: 28px;
+        font-size: 12px;
         
-        
+       
         
         }
         .encabezado{
@@ -174,3 +173,4 @@
             text-align: center;
             font-size: 32px;
         }
+       
