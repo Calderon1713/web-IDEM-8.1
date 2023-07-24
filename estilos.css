@@ -11,7 +11,6 @@
     
     body{
     
-    background-image: url("fondo.jpg");
     
     background-repeat: no-repeat;
     
@@ -19,11 +18,13 @@
     
     .fondotec{
     
-        background-image: url("fondotec.jpg");
+        background-image: url("fondotecno.jpeg");
         
         background-repeat: no-repeat;
         
+        
         }
+    
       
     
     .img{
@@ -44,7 +45,8 @@
     
     left: 180px;
     
-    background-image: url("medellin.jpeg");
+    background-image: url("fondoing.jpeg")
+    
     
     }
     
@@ -64,7 +66,7 @@
     
     text-align: justify;
     
-    color: brown;
+    color: rgb(0, 0, 0);
     
      
     
@@ -102,7 +104,7 @@
     
     margin-right:5px;
     
-    background-image: url("fondo.jpg");
+    background-image: url("circuito_orig.gif");
     
     }
     
@@ -121,36 +123,37 @@
     }
     .contenido{
 
-        height: 280px;
+        height: 100px;
         
-        width: 100%;
+        width: 1607%;
         
         position: absolute;
         
         top: 410px;
+       
         
-         
-        
-        }
-        
-
+    }
+            
+    
+       
         .imagenre{
         
          
         
             background-repeat: no-repeat;
             
-            float:right;
+            float: left;
             
             height: 280px;
             
-            width: 260px;
+            width: 250px;
             
             margin-left: 5px;
             
             margin-right:5px;
             
             background-image: url("imagenre.jpg");
+        
             
             }
         
@@ -162,8 +165,8 @@
         
         color: rgb(0, 0, 0);
         
-        font-size: 12px;
-        
+        font-size: 18px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
        
         
         }
@@ -172,5 +175,159 @@
             width: 100%;
             text-align: center;
             font-size: 32px;
+            
         }
-       
+        .contenido{
+
+            height: 280px;
+            
+            width: 100%;
+            
+            position: absolute;
+            
+            top: 410px;
+            
+             
+            
+            }
+            
+             
+        
+            
+            
+            
+            .contenido{
+
+                height: 280px;
+                
+                width: 100%;
+                
+                position: absolute;
+                
+                top: 410px;
+                
+               
+
+            }
+                     
+                 
+                
+              
+          .imagenbio{
+                
+                 
+                
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 200px;
+                
+                width: 260px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                
+                }
+                
+                
+                
+                .textobio{
+                
+                text-align: justify;
+                
+                color: rgb(0, 0, 0);
+                
+                font-size: 20px;
+                
+                
+                
+                }
+
+                body{
+    
+    
+                    background-repeat: no-repeat;
+                    
+                    }
+                    
+                    .fondore{
+                    
+                        background-image: url("Fondoreligion.jpeg");
+                        
+                        background-repeat: no-repeat;
+                        
+                        
+                        }
+                        body{
+    
+    
+                            background-repeat: no-repeat;
+                            
+                            }
+                            
+                            .fondoingles{
+                            
+                                background-image: url("fondoing.jpeg");
+                                
+                                background-repeat: no-repeat;
+                                
+                                
+                                }
+
+                                body{
+    
+    
+                                    background-repeat: no-repeat;
+                                    
+                                    }
+                                    
+.fondobio{
+                                    
+background-image: url("fondobio.jpeg");
+                                        
+ background-repeat: no-repeat;
+                                        
+                                        
+ }
+
+
+body{
+    
+background-repeat: no-repeat;
+                                            
+ }
+                                            
+ .fondomate{
+                                            
+background-image: url("fondomate.jpeg");
+                                                
+ background-repeat: no-repeat;
+                                                
+                                                
+}
+
+body{
+    
+    
+    background-repeat: no-repeat;
+    
+    }
+    
+    .fondosoci{
+    
+        background-image: url("fondosoci.jpeg");
+        
+        background-repeat: no-repeat;
+        
+        
+        }
+                  
+                    
+                    
+                    
+
+                    
+                                                            
