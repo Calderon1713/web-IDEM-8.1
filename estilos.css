@@ -7,20 +7,17 @@
     }
     
     
+body{
+background-repeat: no-repeat;
+}
     
-    
-    body{
-    
-    
-    background-repeat: no-repeat;
-    
-    }
-    
+
     .fondotec{
     
         background-image: url("fondotecno.jpeg");
         
         background-repeat: no-repeat;
+        height: 2000px;
         
         
         }
@@ -45,7 +42,7 @@
     
     left: 180px;
     
-    background-image: url("fondoing.jpeg")
+    background-image: url("fondoinicio2.avif")
     
     
     }
@@ -67,6 +64,7 @@
     text-align: justify;
     
     color: rgb(0, 0, 0);
+    
     
      
     
@@ -94,30 +92,30 @@
     
     background-repeat: no-repeat;
     
-    float:left;
+    float: left;
+    height: 300px;
     
-    height: 200px;
-    
-    width: 260px;
+    width: 500px;
     
     margin-left: 5px;
     
     margin-right:5px;
     
-    background-image: url("circuito_orig.gif");
-    
+    background-image: url("imagen1.jpg");
+
     }
     
-    
+
     
     .textotecno{
     
     text-align: justify;
     
-    color: azure;
+    color: rgb(0, 0, 0);
+    width: 90%;
     
-    font-size: 20px;
-    
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
     
     }
@@ -163,8 +161,8 @@
         
         text-align: justify;
         
-        color: rgb(0, 0, 0);
-        
+        color: #000;
+        width: 90%;
         font-size: 18px;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
        
@@ -192,10 +190,6 @@
             }
             
              
-        
-            
-            
-            
             .contenido{
 
                 height: 280px;
@@ -221,30 +215,30 @@
                 
                 float:left;
                 
-                height: 200px;
+                height: 300px;
                 
-                width: 260px;
+                width: 500px;
                 
                 margin-left: 5px;
                 
                 margin-right:5px;
-                
+                background-image: url(genetica.jpeg);
                 
                 }
                 
                 
                 
                 .textobio{
-                
-                text-align: justify;
-                
-                color: rgb(0, 0, 0);
-                
-                font-size: 20px;
-                
-                
-                
-                }
+        
+                    text-align: justify;
+                    
+                    color: #000;
+                    
+                    font-size: 18px;
+                    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                   
+                    width: 90%;
+                    }
 
                 body{
     
@@ -289,7 +283,7 @@
 background-image: url("fondobio.jpeg");
                                         
  background-repeat: no-repeat;
-                                        
+height: 3000px;                               
                                         
  }
 
@@ -303,9 +297,9 @@ background-repeat: no-repeat;
  .fondomate{
                                             
 background-image: url("fondomate.jpeg");
-                                                
+height: 4000%;                                          
  background-repeat: no-repeat;
-                                                
+height: 3000px;                            
                                                 
 }
 
@@ -318,16 +312,172 @@ body{
     
     .fondosoci{
     
-        background-image: url("fondosoci.jpeg");
+        background-image: url("fondosociales.jpeg");
         
         background-repeat: no-repeat;
+        height: 2000px;
         
         
-        }
+}
+.contenido{
+height: 280px;
+width: 100%;
+position: absolute;
+            
+            top: 410px;
+            
+             
+            
+            }
+            
+             
+            
+            
+            
+            
+            .textoing{
+            
+            text-align: justify;
+            
+            color: rgb(255, 255, 255);
+            
+            font-size: 18px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            
+            
+            
+            }
+            .contenido{
+
+                height: 280px;
+                
+                width: 100%;
+                
+                position: absolute;
+                
+                top: 410px;
+                
+                 
+                
+                }
+                
+                 
+                
+                .imagenmate{
+                
+                 
+                
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 290px;
+                
+                width: 230px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url("baldor.jpeg");
+                
+                }
+                
+                
+                
+                .textomate{
+                
+                text-align: justify;
+                
+                color: rgb(0, 0, 0);
+                
+                font-size: 18px;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                width: 90%;
+                
+                
+                }
                   
+                .contenido{
+
+                    height: 280px;
                     
+                    width: 100%;
                     
+                    position: absolute;
+                    
+                    top: 410px;
+                    
+                     
+                    
+                    }
+                    
+                     
+                    .imagensoci{
+
+ 
+
+                        background-repeat: no-repeat;
+                        
+                        float: left;
+                        
+                        height: 800px;
+                        
+                        width: 90%;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+                        
+                        background-image: url("diagrama2.png");
+                        
+                        } 
+                    
+        
                     
 
+                    .textosoci{
+                    
+                    text-align: justify;
+                    
+                    color: rgb(255, 255, 255);
+                    
+                    font-size: 34px;
+                    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                    text-align: center;
+                    
+                    }                
+                    .titulo{
+                        background-image: url(titulo.png);
+                        background-repeat: no-repeat;
+                        float: left;
+                        height: 190px;
+                        width: 80%;
+                        margin:  20px
+                    
+                    }
+.textosoci2{
+    text-align: justify;
+    
+    color: rgb(0, 0, 0);
+    width: 99%;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     
+}
+
+    
+    
+    
+    
+    
+    
+    .fondoinicio2{
+    
+        background-image: url("flor.png");
+        
+        background-repeat: no-repeat;
+        height: 618px;
+    }
                     
                                                             
