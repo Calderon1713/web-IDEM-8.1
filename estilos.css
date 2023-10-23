@@ -343,9 +343,35 @@ body{
     
     }
     
-    .fondosoci{
+    .fondomate3{
     
-        background-image: url("fondosociales.jpeg");
+        background-image: url("fondomate3.jpeg");
+        
+        background-repeat: no-repeat;
+        height: 2000px;
+        
+        
+}
+
+
+
+
+
+
+
+
+
+
+body{
+    
+    
+    background-repeat: no-repeat;
+    
+    }
+    
+    .fondosoci2{
+    
+        background-image: url("fondosoci2.jpg");
         
         background-repeat: no-repeat;
         height: 2000px;
@@ -430,6 +456,17 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
                 
                 
                 }
+
+
+
+
+
+
+
+
+
+
+
                   
                 .contenido{
 
@@ -513,4 +550,31 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
         height: 618px;
     }
                     
-                                                            
+      body
+
+    .fondotec3{
+                                    
+        background-image: url("fondotec3.jpg");
+                                                
+         background-repeat: no-repeat;
+        height: 3000px;                               
+                                                
+         }
+body
+
+         .fondoing3{
+                                    
+            background-image: url("fondoing3.jpeg");
+                                                    
+             background-repeat: no-repeat;
+            height: 3000px;                               
+                                                    
+             }
+    
+
+
+
+
+
+        
+         
