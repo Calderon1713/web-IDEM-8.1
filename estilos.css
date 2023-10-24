@@ -571,9 +571,25 @@ body
                                                     
              }
     
+body 
+.fondosoci3{
 
+    background-image: url("fondosoci3.jpg");
+                                                    
+             background-repeat: no-repeat;
+            height: 3000px;                               
+                                                    
+             }
 
-
+             body 
+             .fondomate3{
+             
+                 background-image: url("fondomate3.jpg");
+                                                                 
+                          background-repeat: no-repeat;
+                         height: 3000px;                               
+                                                                 
+                          }
 
 
         
