@@ -547,7 +547,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
         background-image: url("flor.png");
         
         background-repeat: no-repeat;
-        height: 618px;
+        height: px;
     }
                     
       body
@@ -557,7 +557,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
         background-image: url("fondotec3.jpg");
                                                 
          background-repeat: no-repeat;
-        height: 3000px;                               
+        height: 5000px;                               
                                                 
          }
 body
@@ -690,3 +690,85 @@ body
                                             background-image: url("cubomate2.jpg");
                                             
                                             } 
+body
+                                            
+  .imagentec3{
+    background-repeat: no-repeat;
+                                            
+    float:left;
+    
+    height: 400px;
+    
+    width: 330px;
+    
+    margin-left: 5px;
+    
+    margin-right:5px;
+    
+    background-image: url("cartastec3.jpg");
+    
+
+  }                                          
+body
+  .imagentec{
+    background-repeat: no-repeat;
+                                            
+    float:left;
+    
+    height: 400px;
+    
+    width: 330px;
+    
+    margin-left: 5px;
+    
+    margin-right:5px;
+    
+    background-image: url("teleftec3.jpg");
+    
+
+
+
+
+  }
+
+.imagentec3{
+    background-repeat: no-repeat;
+                                            
+    float:left;
+    
+    height: 400px;
+    
+    width: 330px;
+    
+    margin-left: 5px;
+    
+    margin-right:5px;
+    
+    background-image: url("telefstec3.jpg");
+    
+
+}
+
+
+.imagentec3{
+
+    background-repeat: no-repeat;
+                                            
+    float:left;
+    
+    height: 400px;
+    
+    width: 330px;
+    
+    margin-left: 5px;
+    
+    margin-right:5px;
+    
+    background-image: url("celucostec3.jpg");
+    
+
+}
+
+
+
+
