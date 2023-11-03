@@ -547,7 +547,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
         background-image: url("flor.png");
         
         background-repeat: no-repeat;
-        height: px;
+        height: 300px;
     }
                     
       body
@@ -577,7 +577,7 @@ body
     background-image: url("fondosoci3.jpg");
                                                     
              background-repeat: no-repeat;
-            height: 3000px;                               
+            height: 9000px;                               
                                                     
              }
 
@@ -590,27 +590,9 @@ body
                          height: 3500px;                               
                                                                  
                           }
-                          
-                          body
-                          .imagensoci3{
                 
-                 
-                
-                            background-repeat: no-repeat;
                             
-                            float:left;
                             
-                            height: 290px;
-                            
-                            width: 230px;
-                            
-                            margin-left: 5px;
-                            
-                            margin-right:5px;
-                            
-                            background-image: url("REVOLUCIÓN\ INDUSTRIAL\ \(2\).png");
-                            
-                            }
 body
                             .imagenmate3{
                 
@@ -904,8 +886,39 @@ body
     background-image: url("ing8.jpg");
 
 }
+.imagensoci3{
+    background-repeat: no-repeat;
+                                            
+    float:left;
+    
+    height: 400px;
+    
+    width: 400px;
+    
+    margin-left: 5px;
+    
+    margin-right:5px;
+    
+    background-image: url("1.jpg");
 
 
+}
+.imagensoci3{
+                                            
+    float:left;
+    
+    height: 400px;
+    
+    width: 400px;
+    
+    margin-left: 5px;
+    
+    margin-right:5px;
+    
+    background-image: url("2.jpg");
+
+
+}
 
 
 
